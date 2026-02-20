@@ -1,6 +1,6 @@
 import { Accordion } from "radix-ui"
 import { CardImage } from "./card"
-import { AccordionBasic } from "./accordion"
+import { AccordionBasic } from 
 
 export default function Page() {
     return <>
